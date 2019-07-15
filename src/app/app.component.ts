@@ -7,4 +7,15 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'projetoNati';
+
+
+  public teste = true;
+  public numeroDeMatricula;
+
+
+
+  logarMethod() {
+
+  }
 }
+
